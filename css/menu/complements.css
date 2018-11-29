@@ -1,6 +1,14 @@
 .img_logo_inacap{
-    width: auto;
-    height: 130px;
+    width: 125px;
+    height: 35px;
+    margin-left: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.logo_text{
+    padding-top: 0.8%;
+    padding-right: 54%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .btn_help{
     padding: 10px;
